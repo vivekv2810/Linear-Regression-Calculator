@@ -46,3 +46,8 @@ No installation is required. Simply download the files and open the **'index.htm
 
 ## Example
 
+![Screenshot 2024-08-08 110926](https://github.com/user-attachments/assets/88263fd0-256b-4d7d-8111-daad451058f5)
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your improvements
